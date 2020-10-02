@@ -4,7 +4,7 @@ I'm Grant.  I currently am the head of engineering at [ConvertKit][ck], which en
 
 Outside of that, I maintain [Ultralist][ul] which is a useful task management sytstem for engineers and other tech-y folks.
 
-I blog at grant.dev, although I don't write as much as I should.
+I blog at https://grant.dev, although I don't write as much as I should.
 
 [ck]: https://convertkit.com
 [ul]: https://ultralist.io
