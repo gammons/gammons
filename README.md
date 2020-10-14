@@ -1,8 +1,6 @@
 ### Hi there!
 
-I'm Grant.  I currently am the head of engineering at [ConvertKit][ck], which enables creators to earn a living online.
-
-Outside of that, I maintain [Ultralist][ul] which is a useful task management sytstem for engineers and other tech-y folks.
+I'm Grant.  I like to lead engineering teams.  I maintain [Ultralist][ul] which is a useful task management sytstem for engineers and other tech-y folks.
 
 I blog at https://grant.dev, although I don't write as much as I should.
 
