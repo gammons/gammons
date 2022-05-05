@@ -1,10 +1,9 @@
 ### Hi there!
 
-I'm Grant.  I like to lead engineering teams.  I maintain [Ultralist][ul] which is a useful task management sytstem for engineers and other tech-y folks.
+Currently leading SRE efforts over at [DigitalOcean](https://digitalocean.com).  I maintain [Ultralist][ul] which is a useful task management sytstem for engineers and other tech-y folks.
 
 I blog at https://grant.dev, although I don't write as much as I should.
 
-[ck]: https://convertkit.com
 [ul]: https://ultralist.io
 
 <!--
