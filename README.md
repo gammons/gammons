@@ -1,6 +1,6 @@
 ### Hi there!
 
-Currently leading SRE efforts over at [DigitalOcean](https://digitalocean.com).  I maintain [Ultralist][ul] which is a useful task management sytstem for engineers and other tech-y folks.
+I'm Grant.  I  love trying out new tech and keeping my skills sharp.  I maintain [Ultralist][ul] which is a useful task management sytstem for engineers and other tech-y folks.
 
 I blog at https://grant.dev, although I don't write as much as I should.
 
