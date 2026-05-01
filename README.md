@@ -1,11 +1,6 @@
 ### Hi there!
 
-I'm Grant.  I  love trying out new tech and keeping my skills sharp.  I maintain [Ultralist][ul] which is a useful task management sytstem for engineers and other tech-y folks.
-
-I blog at https://grant.dev, although I don't write as much as I should.
-
-[ul]: https://ultralist.io
-
+I'm Grant.  I blog at https://grant.dev, although I don't write as much as I should.\
 <!--
 **gammons/gammons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
